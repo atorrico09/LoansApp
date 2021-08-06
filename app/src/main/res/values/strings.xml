@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TALA</string>
+
+    <string name="badge_title">My Tala Status</string>
+    <string name="badge_limit">Grow your limit up to %1$s</string>
+    <string name="badge_button">VIEW STATUS</string>
+
+    <string name="status_title_apply">Apply for a loan</string>
+    <string name="status_title_approve">Your application is approved!</string>
+    <string name="status_title_due">You are on track!</string>
+    <string name="status_title_paid">Your loan is fully paid</string>
+
+    <string name="status_detail_apply">Repay on time to get loans up to %1$s</string>
+    <string name="status_detail_approve">You have been approved for %1$s</string>
+    <string name="status_detail_due">%1$s is due tomorrow</string>
+    <string name="status_detail_paid">Apply for another loan any time you want and grow your limit</string>
+
+    <string name="status_button_apply">APPLY NOW</string>
+    <string name="status_button_approve">VIEW LOAN OFFER</string>
+    <string name="status_button_due">MAKE A PAYMENT</string>
+    <string name="status_button_paid">APPLY NOW</string>
+
+    <string name="story_title">\"Tala helped me with my dream\"</string>
+    <string name="story_button">READ MORE</string>
+
+    <string name="extras_invite">Invite friends, earn money!</string>
+    <string name="extras_faq">View FAQs or send us a message</string>
+
+</resources>

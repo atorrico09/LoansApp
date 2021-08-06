@@ -1,0 +1,144 @@
+[
+  {
+    "locale": "mx",
+    "loan": {
+      "status": "approved",
+      "level": "silver",
+      "approved": 5000
+    },
+    "timestamp": 1561253056482,
+    "username": "test MX"
+  },
+  {
+    "locale": "mx",
+    "loan": {
+      "status": "due",
+      "level": "silver",
+      "due": 5600,
+      "dueDate": 1563256800000
+    },
+    "timestamp": 1560707238253,
+    "username": "test MX"
+  },
+  {
+    "locale": "mx",
+    "loan": {
+      "status": "approved",
+      "level": "silver",
+      "approved": 5000
+    },
+    "timestamp": 1560544512825,
+    "username": "test MX"
+  },
+  {
+    "locale": "ke",
+    "loan": {
+      "status": "due",
+      "level": "silver",
+      "due": 11200,
+      "dueDate": 1562965200000
+    },
+    "timestamp": 1562487461740,
+    "username": "test KE"
+  },
+  {
+    "locale": "ke",
+    "loan": {
+      "status": "paid",
+      "level": "silver"
+    },
+    "timestamp": 1562746791839,
+    "username": "test KE"
+  },
+  {
+    "locale": "ph",
+    "timestamp": 1560583123914,
+    "username": "test PH"
+  },
+  {
+    "locale": "ke",
+    "loan": {
+      "status": "due",
+      "level": "silver",
+      "due": 11200,
+      "dueDate": 1562965200000
+    },
+    "timestamp": 1561018532937,
+    "username": "test KE"
+  },
+  {
+    "locale": "mx",
+    "loan": {
+      "status": "paid",
+      "level": "gold"
+    },
+    "timestamp": 1561253388256,
+    "username": "test MX"
+  },
+  {
+    "locale": "mx",
+    "timestamp": 1560544054571,
+    "username": "test MX"
+  },
+  {
+    "locale": "ph",
+    "loan": {
+      "status": "due",
+      "level": "bronze",
+      "due": 740,
+      "dueDate": 1562601600000
+    },
+    "timestamp": 1561461327614,
+    "username": "test PH"
+  },
+  {
+    "locale": "ph",
+    "loan": {
+      "status": "paid",
+      "level": "bronze"
+    },
+    "timestamp": 1562567741317,
+    "username": "test PH"
+  },
+  {
+    "locale": "ph",
+    "loan": {
+      "status": "approved",
+      "level": "bronze",
+      "approved": 4000
+    },
+    "timestamp": 1560839058143,
+    "username": "test PH"
+  },
+  {
+    "locale": "mx",
+    "loan": {
+      "status": "approved",
+      "level": "gold",
+      "approved": 7000
+    },
+    "timestamp": 1561744093017,
+    "username": "test MX"
+  },
+  {
+    "locale": "ke",
+    "loan": {
+      "status": "approved",
+      "level": "silver",
+      "approved": 16000
+    },
+    "timestamp": 1560332572283,
+    "username": "test KE"
+  },
+  {
+    "locale": "ph",
+    "loan": {
+      "status": "due",
+      "level": "bronze",
+      "due": 740,
+      "dueDate": 1562601600000
+    },
+    "timestamp": 1562567228207,
+    "username": "test PH"
+  }
+]
