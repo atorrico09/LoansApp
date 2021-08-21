@@ -1,0 +1,17 @@
+{
+  "ke": {
+    "currency": "KSh ",
+    "loanLimit": 30000,
+    "timezone": 10800000
+  },
+  "mx": {
+    "currency": "$",
+    "loanLimit": 10000,
+    "timezone": -21600000
+  },
+  "ph": {
+    "currency": "Php ",
+    "loanLimit": 25000,
+    "timezone": 28800000
+  }
+}
